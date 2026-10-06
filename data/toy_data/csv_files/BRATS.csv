@@ -1,0 +1,2 @@
+patient_id,t1_time_id,t2_time_id,template_text_en,conducted_treatment
+BraTS20_Training_001,Timepoint_1,Timepoint_2,A 55-year-old patient with glioblastoma undergoing radiation therapy,<RT>
