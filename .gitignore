@@ -1,0 +1,26 @@
+# Ignore Python version file
+.python-version
+
+# Ignore virtual environment
+.venv/
+
+# Ignore dataset directories (large files)
+BraTS2020_TrainingData/
+BraTS2020_ValidationData/
+datasets/
+
+# Ignore build scripts and env files
+build_env.sh
+
+# Ignore lock files
+uv.lock
+
+# Ignore pycache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE files
+.vscode/
+.idea/
